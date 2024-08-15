@@ -1,0 +1,78 @@
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InventoryDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SalesDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DetailInventoryDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\bin\Debug\EntityFramework.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.DetailInventoryDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.InventoryDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.SalesDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\proyectos propios\C#\Marqueza\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.DetailInventoryDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.InventoryDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.SalesDs.resources
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\EntityFramework.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.Charting.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.Quality.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.System.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.System.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\PdfSharp.pdb
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\System.Buffers.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\System.Memory.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\bin\Debug\System.ValueTuple.dll
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jquir\OneDrive\Escritorio\mis cosas\project\Empresas\joyeria la marqueza\obj\Debug\WindowsFormsApp1.exe.config

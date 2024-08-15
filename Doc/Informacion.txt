@@ -1,0 +1,48 @@
+----------------- Joyeria Mario ---------------
+
+1. Agregar una columna al pdf que les diga cuanta cantidad queda en el inventario ...
+
+2. Organizar la aplicacion del pc , para que se vea en el portátil ...
+
+3. Descargar el documento en base a la información de la venta ...
+
+4. Se debe permitir descargar por mes  ...
+
+5. Mirar como hacer la descarga del backoup por una interfaz grafica para el cliente ...
+
+
+************ normal ************
+
+
+select * from Inventory order by object
+select * from Sales
+
+
+select SUM(Amouth) as CantidadVendida from Sales
+
+
+select Inventory.Object,SUM(Sales.Amouth) as Amouth,SUM(Sales.Pricing) as Pricing
+from Sales inner join Inventory on Sales.FK_Inventory = Inventory.Id
+group by Inventory.Object 
+
+
+select Sales.Id,Sales.FK_Inventory,Sales.Amouth,Sales.Pricing,Sales.Date,Inventory.Object,Inventory.Length 
+from Sales inner join Inventory on Sales.FK_Inventory = Inventory.Id
+
+
+select Inventory.Length,Inventory.Object,SUM(Sales.Amouth) as Amouth,SUM(Sales.Pricing) as Pricing
+from Sales inner join Inventory on Sales.FK_Inventory = Inventory.Id
+group by Inventory.Length,Inventory.Object 
+
+
+select * from Inventory order by Object,Length
+select Object,SUM(Amouth) as Amouth from Inventory group by Object
+
+********* por fechas *********
+
+
+select Sales.Id,Sales.FK_Inventory,Sales.Amouth,Sales.Pricing,Sales.Date,Inventory.Object,Inventory.Length 
+from Sales inner join Inventory on Sales.FK_Inventory = Inventory.Id where Date BETWEEN '2024-04-01'and '2024-04-30'
+
+select Sales.Id,Sales.FK_Inventory,Sales.Amouth,Sales.Pricing,Sales.Date,Inventory.Object,Inventory.Length 
+from Sales inner join Inventory on Sales.FK_Inventory = Inventory.Id where Date > '2024-04-01' and Date < '2024-04-30'
